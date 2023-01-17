@@ -1,0 +1,36 @@
+#cal{
+    text-align: center;
+    color: brown;
+}
+#calculator{
+    background-color: aqua;
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius:5px ;
+}   
+#calculator2{
+    background-color: rgb(0, 17, 255);
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius:5px ;
+} 
+#calculator3{
+    background-color: rgb(255, 0, 212);
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius:5px ;
+} 
+#calculator4{
+    background-color: rgb(255, 0, 43);
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+    border-radius:5px ;
+} 
